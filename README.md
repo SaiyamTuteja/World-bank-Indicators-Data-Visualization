@@ -29,5 +29,10 @@ This repository showcases a comprehensive data visualization project using Table
 ## Data Source
 The data used for these visualizations is sourced from the World Bank dataset, providing a rich and diverse set of indicators.
 
+## Dashboard View
+![WhatsApp Image 2024-01-18 at 11 34 05 AM](https://github.com/SaiyamTuteja/World-bank-Indicators-Data-Visualization/assets/119167105/ccdb23dc-c8f5-48e6-be71-7ad795388f3c)
+
+## Story View
+![WhatsApp Image 2024-01-18 at 11 34 34 AM](https://github.com/SaiyamTuteja/World-bank-Indicators-Data-Visualization/assets/119167105/70cea561-b16b-4510-a667-8e1408d6cd6a)
 
 Feel free to contribute, provide feedback, or explore further visualizations based on this foundation. Happy visualizing! 🌍📊
